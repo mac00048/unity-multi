@@ -1,0 +1,15 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="PurrNet.Lobby.Nakama.csproj" />
+  <Project Path="PurrNet.Lobby.csproj" />
+  <Project Path="PurrNetLobbySetup.csproj" />
+  <Project Path="PurrNet.Lobby.Steam.Editor.csproj" />
+  <Project Path="PurrNet.Lobby.PurrNet.csproj" />
+  <Project Path="PurrNet.Lobby.GenericProviders.csproj" />
+  <Project Path="PurrNet.Lobby.Tests.csproj" />
+  <Project Path="PurrNetLobby_Editor.csproj" />
+  <Project Path="PurrNet.Lobby.Steam.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="PurrNet.Lobby.PurrNet.Editor.csproj" />
+  <Project Path="PurrNet.Lobby.Editor.csproj" />
+</Solution>
